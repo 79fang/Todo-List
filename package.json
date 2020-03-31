@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "/project-react-1/build",
+  "homepage": "/Todo-List/build",
   "eslintConfig": {
     "extends": "react-app"
   },
